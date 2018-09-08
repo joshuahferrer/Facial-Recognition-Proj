@@ -1,0 +1,20 @@
+
+.jumbotron{
+  background-color: #f4511e;
+  color: #3d5e2c;
+  text-align: center;
+}
+.page-header{
+  text-align: center;
+
+}
+
+#vidDisplay{
+   width:  40%;
+   height: 40%;
+
+}
+
+body{
+  background-color: #41f4d0;
+}
